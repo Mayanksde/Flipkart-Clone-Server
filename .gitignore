@@ -10,6 +10,7 @@
 ../server/.env
 # production
 /build
+/.gitignore
 
 # misc
 .DS_Store
